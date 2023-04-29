@@ -1,4 +1,4 @@
-Some of the most common Java design patterns using ChatGPT
+**Some of the most common Java design patterns using ChatGPT**
 
 Java design patterns are reusable solutions to common software design problems. These patterns provide proven solutions to recurring design problems, making it easier for developers to create robust, maintainable, and scalable Java applications. Here are some of the most common Java design patterns:
 
