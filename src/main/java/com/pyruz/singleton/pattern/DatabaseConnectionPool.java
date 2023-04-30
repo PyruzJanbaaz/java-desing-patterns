@@ -1,4 +1,4 @@
-package com.pyruz.singleton;
+package com.pyruz.singleton.pattern;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

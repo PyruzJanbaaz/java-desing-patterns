@@ -1,8 +1,8 @@
-package com.pyruz.factory;
+package com.pyruz.factory.pattern;
 
-import com.pyruz.factory.impl.Circle;
-import com.pyruz.factory.impl.Rectangle;
-import com.pyruz.factory.intrface.Shape;
+import com.pyruz.factory.pattern.impl.Circle;
+import com.pyruz.factory.pattern.impl.Rectangle;
+import com.pyruz.factory.pattern.intrface.Shape;
 
 public class ShapeFactory {
 

@@ -1,6 +1,7 @@
 package com.pyruz.factory;
 
-import com.pyruz.factory.intrface.Shape;
+import com.pyruz.factory.pattern.intrface.Shape;
+import com.pyruz.factory.pattern.ShapeFactory;
 
 public class FactoryDemo {
 

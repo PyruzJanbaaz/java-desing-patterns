@@ -1,6 +1,6 @@
-package com.pyruz.factory.impl;
+package com.pyruz.factory.pattern.impl;
 
-import com.pyruz.factory.intrface.Shape;
+import com.pyruz.factory.pattern.intrface.Shape;
 
 public class Circle implements Shape {
     @Override

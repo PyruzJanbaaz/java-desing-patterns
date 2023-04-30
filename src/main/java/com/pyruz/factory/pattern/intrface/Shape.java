@@ -1,4 +1,4 @@
-package com.pyruz.factory.intrface;
+package com.pyruz.factory.pattern.intrface;
 
 public interface Shape {
     void draw();

@@ -1,5 +1,7 @@
 package com.pyruz.singleton;
 
+import com.pyruz.singleton.pattern.DatabaseConnectionPool;
+
 import java.sql.Connection;
 
 public class SingletonDemo {
