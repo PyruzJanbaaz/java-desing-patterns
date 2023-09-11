@@ -32,6 +32,6 @@ ___
 
 ___
 
-Here's a **use case** for the Singleton pattern:
+Here's a **use case** for the Facade pattern:
 
 Suppose  we have a complex banking system with multiple modules such as Account Management, Transaction Processing, and User Authentication. Each of these modules has multiple classes and methods, and integrating them can be a daunting task. We can use the Facade pattern to simplify the integration process.
